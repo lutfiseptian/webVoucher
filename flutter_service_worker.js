@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "1.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/AssetManifest.json": "f08d73f83738e02f376087cbae576576",
+  "assets/AssetManifest.json": "e0798f8717d70122723d981cb7fa35bc",
 "assets/assets/fonts/quicksand/Quicksand_Bold.otf": "c3bf00e585782373e1b601c07b513d85",
 "assets/assets/fonts/quicksand/Quicksand_Bold_Oblique.otf": "d1c617563942dc5b141f7a9b86318f99",
 "assets/assets/fonts/quicksand/Quicksand_Book.otf": "dd2da1d8f9d3944efe2797e1fa02e096",
@@ -21,7 +20,6 @@ const RESOURCES = {
 "assets/assets/images/bni.png": "13596fae05d3e1892dd1fabd2fc7f6aa",
 "assets/assets/images/bpjs.png": "0b49e66142fc1f7c411089e0dcf6163c",
 "assets/assets/images/bri.png": "9ab6a8d53f8b72f3da72cd2b7b5c01a4",
-"assets/assets/images/brilogo.png": "9ab6a8d53f8b72f3da72cd2b7b5c01a4",
 "assets/assets/images/bss.png": "fba4a39d0f8fefcb94af1e1672eabd4f",
 "assets/assets/images/cimb.png": "0a2f52027efa4f314716bd237d7a974e",
 "assets/assets/images/clashofclans.png": "459b504b53fdd01fa3c619abb8795271",
@@ -101,7 +99,7 @@ const RESOURCES = {
 "assets/assets/images/wallet.png": "23171ec2d5c4a19c146c1efdd4a0f36a",
 "assets/FontManifest.json": "01bffc0714b2e95158398fa1aa21524c",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "ff192c92bbd0ac315a74658e10b23a61",
+"assets/NOTICES": "a26b036a67c3c2dc391dab3993c617b2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -384,18 +382,11 @@ const RESOURCES = {
 "favicon.png": "d59818244b8e3e3f2db032a64b6fce30",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/favicon.png": "d59818244b8e3e3f2db032a64b6fce30",
-"icons/Icon-192(3).png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/icon-192.png": "503a5275e923b516c2d6598bd0808478",
-"icons/Icon-512(3).png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/icon-512.png": "503a5275e923b516c2d6598bd0808478",
-"icons/Icon-maskable-192(3).png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/icon-maskable-192.png": "503a5275e923b516c2d6598bd0808478",
-"icons/Icon-maskable-512(3).png": "301a7604d45b3e739efc881eb04896ea",
-"icons/icon-maskable-512.png": "503a5275e923b516c2d6598bd0808478",
-"index.html": "1b0af20f2f6a2b11642fd8b973eaa835",
-"/": "1b0af20f2f6a2b11642fd8b973eaa835",
-"main.dart.js": "a70e5221fbf103a6d972c4de10efd6f0",
-"manifest.json": "408bec5204555c5da338d211607c1268",
+"index.html": "e0bc6dcc9eed437c92eebc89008d0d57",
+"/": "e0bc6dcc9eed437c92eebc89008d0d57",
+"main.dart.js": "508ce4334e9b8436c9dc7ed376dbd4f6",
+"manifest.json": "f6c067223ddf68eff8f0baa27330ef2e",
 "version.json": "8401850289171a9568f6bfff33e946e7"
 };
 
