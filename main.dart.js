@@ -92254,8 +92254,8 @@ s.db.sh(0,!1)
 s.CW.sh(0,120)
 s.cx.sh(0,2)
 A.ab("lebar 395")
-s.ch.sh(0,600)
-A.ab("jumlah menu 6")},
+s.ch.sh(0,400)
+A.ab("jumlah menu 4")},
 Cz(){var s=0,r=A.A(t.z),q=this,p,o,n
 var $async$Cz=A.w(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:n=A.eh("GetStorage").c
