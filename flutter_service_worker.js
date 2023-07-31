@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e0798f8717d70122723d981cb7fa35bc",
+  "assets/AssetManifest.json": "941de6fd23dc57d913eb1617cb4d2605",
 "assets/assets/fonts/quicksand/Quicksand_Bold.otf": "c3bf00e585782373e1b601c07b513d85",
 "assets/assets/fonts/quicksand/Quicksand_Bold_Oblique.otf": "d1c617563942dc5b141f7a9b86318f99",
 "assets/assets/fonts/quicksand/Quicksand_Book.otf": "dd2da1d8f9d3944efe2797e1fa02e096",
@@ -39,6 +39,7 @@ const RESOURCES = {
 "assets/assets/images/home-active.png": "e89f413ca46bba70b33da3c03b546a75",
 "assets/assets/images/home-disabled.png": "d0960751ac0ed76f65b4107cb3a98428",
 "assets/assets/images/home1.png": "c748e40845d3372d8cfbb9fdfac1e7a4",
+"assets/assets/images/homebiller.png": "c5e39eb343b9f4e2680fb308cdbdc608",
 "assets/assets/images/home_active1.png": "ed98ec390160042067160eb0ee5c26d9",
 "assets/assets/images/hubungi_kami1.png": "0aedcdfed9bb857a6b80f17ff9c83bce",
 "assets/assets/images/info-circle.png": "139bc60f8a788afbe1cdbe7c7b2e94e4",
@@ -383,9 +384,9 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/favicon.png": "d59818244b8e3e3f2db032a64b6fce30",
 "icons/icon-512.png": "503a5275e923b516c2d6598bd0808478",
-"index.html": "1fb0d612250358b5ef5b712021189a66",
-"/": "1fb0d612250358b5ef5b712021189a66",
-"main.dart.js": "4001f3c357cd09d1b6dc4bb568f561c2",
+"index.html": "7a40132e88fc572b2090b45ac865dede",
+"/": "7a40132e88fc572b2090b45ac865dede",
+"main.dart.js": "82ea6840db7264703b60eafe8397b953",
 "manifest.json": "f6c067223ddf68eff8f0baa27330ef2e",
 "version.json": "8401850289171a9568f6bfff33e946e7"
 };
