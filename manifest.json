@@ -1,11 +1,11 @@
 {
-    "name": "Biller5",
-    "short_name": "Biller5",
+    "name": "biller5",
+    "short_name": "biller5",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#7CAF4E",
-    "theme_color": "#7CAF4E",
-    "description": "Biller5 adalah distributor resmi voucher, token, top up game game online favorit-mu.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Pembayaran Pulsa Dengan Mudah",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
